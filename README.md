@@ -4,10 +4,10 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+March 10, 2018
 
 ### Student Name:  
-(First and Last Name)
+Jiri Stanc
 
 ### Project Description:
 (In your own words, briefly describe the assignment.)
