@@ -110,6 +110,15 @@ $(document).ready(function(){
                  
                  $("#original_language").html(json.results[0].original_language);
                  
+                 
+                 
+                 
+                 /***************************** additional movie information **********************************/
+                 
+                 $("#vote_count").html(json.results[0].vote_count);
+                 
+                 $("#vote_average").html(json.results[0].vote_average);
+                 
 
 
 
