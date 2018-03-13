@@ -10,7 +10,7 @@ March 10, 2018
 Jiri Stanc
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+The purpose of this assignment is to build an AJAX/JSON based movie database application. The data for the application are retrieved from movie database (TMDb) using API.
 
 ### View Project:
 https://jirist.github.io/lesson8_ajax/
