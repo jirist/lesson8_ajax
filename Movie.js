@@ -113,7 +113,7 @@ $(document).ready(function(){
                  
                  
                  
-                 /***************************** additional movie information **********************************/
+                 /***************************** additional movie information ***********************************/
                  
                  $("#vote_count").html(json.results[0].vote_count);
                  
