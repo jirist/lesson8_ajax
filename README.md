@@ -17,6 +17,7 @@ https://jirist.github.io/lesson8_ajax/
 
 ### Lessons Learned in the Assignment:
 1. AJAX (Asynchronous JavaScript and XML)
+
 AJAX is a programming approach using existing technologies to allow parts of DOM of a webpage to be selectively updated without having to reload the entire page. The idea is to make a webpage more responsive and interactive; the data are exchanged with the server behind the scene, without impacting the display of the rest of the webpage (normally, a webpage must be reloaded to view new information). AJAX server requests are asynchronous and independent of each other. That means, when a browser makes an AJAX request, the browser does not wait for the response by stopping the webpage functionality. Instead, AJAX will process returning responses and refresh parts of a webpage that are already loaded into a browser. As I mentioned earlier, AJAX is a set of technologies, based on open standards; HTML and CSS to mark up and style the data, JavaScript to process server responses and dynamically deliver these to the user, and XML or JSON to transfer data from server to browser (JSON is becoming more popular due to its advantage of being part of JavaScript). The core concept of AJAX is XMLHttpRequest JavaScript object (also called XHR). The XMLHttpRequest object is used by JavaScript to establish independent Http connection between the client and server.
 
 2. (Briefly describe a lesson/concept learned in this lesson.)
